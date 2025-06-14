@@ -1,2 +1,4 @@
 # apnacollege-demo
-It my first git repo 
+It my first git repository
+<br>
+Author-Devesh Maratha
